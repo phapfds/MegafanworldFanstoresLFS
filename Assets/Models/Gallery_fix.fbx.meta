@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 0c4cb6c87cbfb044f89af8bbd0707515
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat
+    second: {fileID: 2100000, guid: bb9b0d8acfe52524199952206c1f8b56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat1
+    second: {fileID: 2100000, guid: ddac6a1aae6d6b648b47720b94d965a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat10
+    second: {fileID: 2100000, guid: 2d001b0ac2284d54d8a10cb787baf264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat11
+    second: {fileID: 2100000, guid: 49ed7077b70780449a0154bff9e2f71f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat12
+    second: {fileID: 2100000, guid: 60c2059dd9778494ebc42db558b4134b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat2
+    second: {fileID: 2100000, guid: f0f0a33fdc5a14b4082d694c36978977, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat3
+    second: {fileID: 2100000, guid: dcfc3e119b2480845b033f57466dde30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat4
+    second: {fileID: 2100000, guid: 93ecd22817b79664bb5ee78ddd23687e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat5
+    second: {fileID: 2100000, guid: 804b82d65d25bd240922898dd71b1fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat6
+    second: {fileID: 2100000, guid: 2504d992b4719d54eb32f887cf9154d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat7
+    second: {fileID: 2100000, guid: 6d37ef72b8e17fe4c8a4cdfbe75adaf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat8
+    second: {fileID: 2100000, guid: 2994de7530e717a488c71f072160f25c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artboard_mat9
+    second: {fileID: 2100000, guid: e6c97995645101e4ab6003723b62f0fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Custom
+    second: {fileID: 2100000, guid: 12503cb4a5ecc6140a60206bf58fc8ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 07045c615734f3b46bcd9cf024c37d79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_2
+    second: {fileID: 2100000, guid: deadfbeb995315c46981da3f3f03d193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: f42a87ce435190a4e809678eddedc6a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_metal
+    second: {fileID: 2100000, guid: 6ffa6be9b0484af4c82d218faba2f40b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 01-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: 041ba3a6cf6afcc428d7917380a3cc3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 02-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: 778141fdc9100bf48976c131ee242bd5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 03-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: 81d8ca21df1224c4db48670d0375c999, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 04-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: 0370d82c6ed97e64eb426ba14606b77a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 05-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: aa61c8a36028cc64e950896695a7be35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 06-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: 3c24939b0ceed9b4d841ab5423fba2f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 07-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: ed3fe7e5d1b51094997fd1eee60ed7e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 09-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: 645d9b212b67fab4f9bbab96938e52ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 10-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: 5753c36b2cb2ef448b852b47138d3931, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 12-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: 36a97378c35d0d5468cb8ccc76847f27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 13-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: 9b0e220e7a8a0cc4bbfc0dff5729f1f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 14-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: ac085598a4c3d2d4aa8b7afef81d3ae6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fussball Kunst 16-gigapixel-scale-4_00x
+    second: {fileID: 2800000, guid: ac41f1faa9667104bb98ad2f5d057fb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GF
+    second: {fileID: 2800000, guid: 68f6f3beee5887a46bd3bb79f92572e6, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
